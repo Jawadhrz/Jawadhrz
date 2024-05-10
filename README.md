@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jawadhrz
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Front End Web Development / React
-- 💞️ I’m looking to collaborate on Web Technologies and Companies
+- 🌱 I’m currently learning Python Development / Data Science
+- 💞️ I’m looking to collaborate on Data & Web Technologies and Companies
 - 📫 How to reach me ... jawadtechexpertz@gmail.com
 
 <!---
